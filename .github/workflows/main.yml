@@ -1,5 +1,4 @@
 name: heroku-deploy-stop-start
-
 on:
   workflow_dispatch:
     branches:
